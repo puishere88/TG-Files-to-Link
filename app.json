@@ -1,12 +1,12 @@
 {
- "name": "TG Files to Link",
+ "name": "punihere88s to Link",
  "description": "Telegram files to Direct link!!",
  "logo": "https://telegra.ph/file/c3d25aa057a3aa2282d50.png",
  "keywords": [
    "telegram",
    "FiletoLinkBot"
   ],
- "repository": "https://github.com/TGExplore/TG-Files-to-Link",
+ "repository": "https://github.com/punihere88/TG-Files-to-Link",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
@@ -26,7 +26,7 @@
       "required": false
   },
    "PUBLIC_URL": {
-      "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
+      "description": "The Heroku App URL similar to https://<punihere88>.herokuapp.com/",
       "value": ""
   },
    "TG_START_MESG": {
